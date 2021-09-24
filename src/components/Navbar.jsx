@@ -1,6 +1,6 @@
 import "./Navbar.css"
 import { } from "@ant-design/icons"
-import Logo from "../images/SridharLogo (3).png";
+import Logo from "../images/SridharLogo.png";
 
 
 const Navbar = () => {

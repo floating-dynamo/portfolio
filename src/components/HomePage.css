@@ -11,7 +11,11 @@
 }
 
 .profile-img {
-  width: 300px;
+  width: 16.87rem;
+}
+
+.profile-title {
+  margin-bottom: 10px;
 }
 
 .profile-desc {
