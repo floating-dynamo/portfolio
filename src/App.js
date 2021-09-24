@@ -1,9 +1,10 @@
 import './App.css';
+import Navbar from './components/Navbar';
 
 function App() {
   return (
     <div className="app">
-      <h1>Portfolio Website</h1>
+      <Navbar />
     </div>
   );
 }
