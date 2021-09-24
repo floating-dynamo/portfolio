@@ -10,7 +10,7 @@ const HomePage = () => {
                 <h1 className="profile-title">Sridhar Maskeri</h1>
             </div>
             <div className="profile-desc">
-                <h1>Hi there,I am a Front-End Webdeveloper.</h1>
+                <h1>Hi there, I am a Front-End Webdeveloper.</h1>
                 <h4>You can Know more about me here.</h4>
                 <div className="btn-container">
                     <button className="btn">About Me</button>
