@@ -12,6 +12,11 @@
   height: 130px;
   border-radius: 100%;
   cursor: pointer;
+  transition: all 0.3s linear;
+}
+
+.navbar-brand-logo:hover {
+  transform: rotate(180deg);
 }
 
 .navbar-items {
