@@ -1,0 +1,35 @@
+.project-card-collection {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  margin: 50px;
+}
+
+.project-card {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding: 20px;
+  margin: 30px;
+  background-color: rgba(255, 255, 255, 0.3);
+  border-radius: 1vw;
+  flex: 0.3;
+}
+
+.project-card h1 {
+  color: rgb(0, 30, 60);
+  font-family: "Didact Gothic", sans-serif;
+}
+
+.project-card p {
+  color: rgb(170, 180, 190);
+  padding: 20px;
+}
+
+.project-card-img {
+  width: 300px;
+  padding: 20px;
+}
