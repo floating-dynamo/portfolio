@@ -7,8 +7,8 @@ const Skills = () => {
         <div className="skill-collection">
             {skilldata.map(skill => {
                 return <div className="skill">
-                    <img src={skill.img} alt={skill.alt} />
-                    <h2>{skill.name}</h2>
+                    <img className="skill-img" src={skill.img} alt={skill.alt} />
+                    <h2 className="skill-name">{skill.name}</h2>
                 </div>
             })}
         </div>

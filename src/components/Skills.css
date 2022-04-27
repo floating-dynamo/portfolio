@@ -1,0 +1,46 @@
+.skill-collection {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+	padding: 20px;
+}
+
+.skill {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+	background-color: rgba(100, 149, 237, 0.3);
+	margin: 10px;
+	padding: 20px;
+	border-radius: 1vw;
+	flex: 30%;
+	height: 20.25rem;
+	position: relative;
+}
+
+.skill-img {
+	width: 12.5rem;
+	margin-bottom: 10px;
+}
+
+.skill-name {
+	position: absolute;
+	bottom: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+	.skill {
+		height: 13.75rem;
+	}
+	.skill-img:last-child {
+		width: 12.5rem;
+	}
+
+	.skill-img {
+		width: 7rem;
+		height: 7rem;
+	}
+}

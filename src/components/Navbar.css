@@ -13,6 +13,7 @@
   border-radius: 100%;
   cursor: pointer;
   transition: all 0.3s linear;
+  user-select: none;
 }
 
 .navbar-brand-logo:hover {
@@ -53,4 +54,19 @@
 
 .navbar-items h4:hover {
   color: rgb(255, 255, 255);
+}
+
+.navbar-links{
+  text-decoration: none;
+  color: rgb(170, 180, 190);
+}
+
+@media only screen and (max-width: 600px){
+  .navbar-items{
+    flex-direction: column;
+  }
+
+  .navbar-items h4{
+    margin: 2px;
+  }
 }

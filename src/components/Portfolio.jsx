@@ -1,7 +1,7 @@
 import React from 'react'
 import "./Portfolio.css"
-import ProjectCard from './ProjectCard'
-import Skills from './Skills'
+import ProjectCard from './ProjectCard';
+import Skills from "./Skills.jsx"
 
 const Portfolio = () => {
     return (
@@ -13,6 +13,7 @@ const Portfolio = () => {
             <hr />
             <div className="skills">
                 <h1>Skills</h1>
+                <Skills />
             </div>
         </div>
     )

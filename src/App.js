@@ -1,17 +1,16 @@
 import './App.css';
-import HomePage from './components/HomePage';
-import Navbar from './components/Navbar';
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Portfolio from './components/Portfolio';
+import HomePage from './pages/HomePage';
+import PortfolioPage from './pages/PortfolioPage';
 
 function App() {
   return (
     <div className="app">
-      <Navbar />
       <Router>
         <Switch>
           <Route exact path="/portfolio">
-            <Portfolio />
+            <PortfolioPage />
           </Route>
           <Route exact path="/">
             <HomePage />
