@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.6d33f8cd.chunk.css",
+    "main.js": "/portfolio/static/js/main.c192a19f.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.c192a19f.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.37da8305.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.37da8305.js.map",
+    "static/js/2.ff3b5c9a.chunk.js": "/portfolio/static/js/2.ff3b5c9a.chunk.js",
+    "static/js/2.ff3b5c9a.chunk.js.map": "/portfolio/static/js/2.ff3b5c9a.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.6d33f8cd.chunk.css.map": "/portfolio/static/css/main.6d33f8cd.chunk.css.map",
+    "static/js/2.ff3b5c9a.chunk.js.LICENSE.txt": "/portfolio/static/js/2.ff3b5c9a.chunk.js.LICENSE.txt",
+    "static/media/SignUp_landingPage.0e05f760.jpeg": "/portfolio/static/media/SignUp_landingPage.0e05f760.jpeg",
+    "static/media/image1.7be26464.png": "/portfolio/static/media/image1.7be26464.png",
+    "static/media/image1.a588bada.png": "/portfolio/static/media/image1.a588bada.png",
+    "static/media/image1.b001448b.png": "/portfolio/static/media/image1.b001448b.png",
+    "static/media/image2.8a21d9e6.jpeg": "/portfolio/static/media/image2.8a21d9e6.jpeg",
+    "static/media/image3.9eb08aeb.jpeg": "/portfolio/static/media/image3.9eb08aeb.jpeg",
+    "static/media/shri.1e5677b9.png": "/portfolio/static/media/shri.1e5677b9.png",
+    "static/media/voterQMain.cbce0c25.png": "/portfolio/static/media/voterQMain.cbce0c25.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37da8305.js",
+    "static/js/2.ff3b5c9a.chunk.js",
+    "static/css/main.6d33f8cd.chunk.css",
+    "static/js/main.c192a19f.chunk.js"
+  ]
+}
