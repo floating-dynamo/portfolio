@@ -23,8 +23,8 @@ const HomePageContent = () => {
                 <h1>Hi there, I am a Web developer.</h1>
                 <h4>You can Know more about me here.</h4>
                 <div className="btn-container">
-                    <Link to="/about"><button className="btn">About Me</button></Link>
-                    <Link to="/portfolio"><button className="btn">Porfolio</button></Link>
+                    <Link to="/about/portfolio"><button className="btn">About Me</button></Link>
+                    <Link to="/portfolio/portfolio-page"><button className="btn">Porfolio</button></Link>
                 </div>
             </div>
         </div>
