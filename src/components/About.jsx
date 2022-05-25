@@ -5,7 +5,7 @@ import profileImg from "../images/shri.png";
 const About = () => {
 	return (
 		<div className="about">
-			<h1 className="about-title">Hi, there my name is Sridhar Maskeri.</h1>
+			<h1 className="about-title">About</h1>
 			<div className="about-content">
 				<img
 					className="about-profile-img"

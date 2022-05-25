@@ -1,12 +1,19 @@
 .portfolio {
-  color: rgb(255, 255, 255);
+	color: rgb(255, 255, 255);
 }
+
+.projects > h1 {
+	border-bottom: 2.5px solid rgb(244, 187, 68);
+	width: max-content;
+	margin: 0 auto;
+}
+
 hr {
-  outline: none;
-  border: none;
-  width: 80%;
-  margin: 50px auto;
-  height: 5px;
-  border-radius: 40px;
-  background: rgb(170, 180, 190);
+	outline: none;
+	border: none;
+	width: 80%;
+	margin: 50px auto;
+	height: 5px;
+	border-radius: 40px;
+	background: rgb(170, 180, 190);
 }

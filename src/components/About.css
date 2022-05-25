@@ -2,8 +2,10 @@
 	color: white;
 }
 
-.about > h1 {
-	text-decoration: underline rgba(255, 255, 255, 0.25);
+.about-title {
+	border-bottom: 2.5px solid rgb(244, 187, 68);
+	width: max-content;
+	margin: 0 auto;
 }
 
 .about-content {

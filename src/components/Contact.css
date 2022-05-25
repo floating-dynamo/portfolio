@@ -1,0 +1,9 @@
+.contact {
+	color: white;
+}
+
+.contact-title {
+	border-bottom: 2.5px solid rgb(244, 187, 68);
+	width: max-content;
+	margin: 0 auto;
+}
